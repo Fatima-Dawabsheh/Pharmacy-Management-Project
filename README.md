@@ -44,4 +44,9 @@ A full-stack web application designed to optimize pharmacy operations by automat
 - A structured relational database (e.g., SQLite/MySQL/PostgreSQL)  
 - Schemas include: `Users`, `Medicines`, `Prescriptions`, `Sales`, `Transactions`
 
+## 👥 Contributors  
+👥 **Fatima Dawabsheh**   
+👥 **Shahed Shrateh**  
+👥 **Saja Asfour** 
+
 
